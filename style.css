@@ -310,3 +310,34 @@ nav{
 .user-profile small{
     font-size: 12px;
 }
+.add-post-links{
+    display: flex;
+    margin-top: 10px; 
+}
+
+.add-post-links a{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #626262;
+    font-size: 13px;
+}
+
+.add-post-links a img{
+    width: 25px;
+    margin-right: 10px;
+}
+
+.post-container{
+    width: 100%;
+    background: #faf9f9;
+    border-radius: 6px;
+    margin: 20px 0;
+    padding: 20px;
+    color: #626262;
+}
+.user-profile span{
+    font-size: 13px;
+    
+}
